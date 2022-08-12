@@ -1,0 +1,27 @@
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+HAGAR THE HORRIBLE (HAGAR DER SCHRECKLICHE)
+(c) 1992 Kingsoft
+Programming & Graphics by Rasmus Wernersson.
+Sound by Sound Division.
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+The files contained herein were kindly supplied by the programmer Rasmus Wernersson (e-address: RAZ@dpp.dk) at the request of the Gamebase64 team.
+
+H_BACK1.D64 contains the original German version.
+H_BACK2.D64 contains the original English version.
+H_DEMO1.D64 contains two demos released for publicity.
+HAG_SRC1.D64 contains the game's source code.
+HAG_SRC2.D64 contains the compiled game's source code.
+
+The German version was published by Kingsoft in 1992, after altering slightly the loading screen.
+
+The English version was never published.
+
+Both versions contain the original manual-based protection intact. An unprotected English version can be downloaded from the Rare Games Corner section of www.gamebase64.com
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+This text typed by Dimitris Kiminas on 23 June 2001.
+

@@ -4,9 +4,13 @@ Extract of the "Haggar the Horrible Commodore 64" game source code.
 
 The code has been released in 2021 in a not very accessible format (source files are in Turbo Assembler binary format, stored in a `D64` image file); I've extracted and processed the files, so that the source files can be easily studied in plaintext.
 
+## Source
+
+Internet archive: https://archive.org/details/hagar-the-horrible-c-64-kingsoft-1992-source-code.-7z
+
 ## Original release content
 
-The released image (which can be downloaded from [here](https://archive.org/details/hagar-the-horrible-c-64-kingsoft-1992-source-code.-7z)) includes a few files:
+The released image includes a few files:
 
 - `H_BACK1.D64`  : the original German version
 - `H_BACK2.D64`  : the original English version
@@ -14,7 +18,7 @@ The released image (which can be downloaded from [here](https://archive.org/deta
 - `HAG_SRC1.D64` : the game's source code
 - `HAG_SRC2.D64` : the compiled game's source code
 
-This repository includes the only relevant file, `HAG_SRC1.D64`.
+This files are in the directory `released_files`.
 
 ## Extracting the data
 
